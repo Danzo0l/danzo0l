@@ -1,5 +1,7 @@
 ### create a new repository on the command line  
 
+https://docs.google.com/document/d/1HOUgAgsIf9YPtCC3C8mNg7vZ0uxNuO4mjTq2BQ6CQLI/edit?usp=sharing
+
 `echo "# repositoryname" >> README.md`  
 `git init`  
 `git add README.md`  
