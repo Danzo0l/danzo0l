@@ -1,5 +1,6 @@
 ## 🌌 Welcome to my Github
-![](assets/background.png)
+
+<!-- ![](assets/background.png) -->
 
 #### 💻 About me:
 Web developer from St. Peterburg. I'm student of [**SUAI**](https://suai.edu.ru/). My projects are released on GitHub, on page [repositories](https://github.com/Danzo0l?tab=repositories).
