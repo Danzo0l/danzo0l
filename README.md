@@ -1,11 +1,17 @@
 # 🌌 Welcome to my Github
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=danzo0l&theme=onedark_duo)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=danzo0l&theme=onedark_duo)
 
-### ✅ My [business-card-website](https://danzo0l.github.io/business-card-website/)
+### ✅ My [Web-card](https://danzo0l.github.io/business-card-website/)
 
 
-### 🔭 I’m currently working on [SUAI-rasp](https://github.com/Danzo0l/guap-raspisanie)
+### 🔭 I’m currently working on [SUAI-rasp](https://danzo0l.github.io/guap-raspisanie/)
+
+### 💻 About me:
+Web developer from St. Peterburg. I'm student of [**SUAI** ![SUAI](img/suai.svg)](https://suai.edu.ru/)
+
+
+### Education
 
 ### 📫 Contact me: 
 
