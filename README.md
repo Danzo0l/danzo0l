@@ -7,7 +7,7 @@
   <span style="margin: 0 20px; opacity: .6; font-size: 18px">Denis Dryagin</span>
 </div>
 
-Web developer from St. Peterburg. I'm student of [**SUAI**](https://suai.edu.ru/). Visit my [web-card](https://danzo0l.github.io/business-card-website/)
+Web developer from St. Peterburg. I'm student of [**SUAI**](https://suai.edu.ru/). Now i  Visit my [web-card](https://danzo0l.github.io/business-card-website/)
 
 
 #### 🔭 I’m currently working on [SUAI-rasp](https://danzo0l.github.io/guap-raspisanie/)
