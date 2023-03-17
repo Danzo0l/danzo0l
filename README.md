@@ -11,10 +11,6 @@ Web developer from St. Peterburg. I'm student of [**SUAI**](https://suai.edu.ru/
 - 📋 Download my **[Resume](assets/Resume.pdf)**
 - 📫 How to reach me by [Gmail](mailto:danzo0l.in@gmail.com) 
 
-#### 👨‍🎓 Education
-- **2019 - 2021** - High school
-- **2021 - . . .** - SUAI university
-
 #### 💡 Stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzo0l&hide_progress=true)
 
