@@ -11,8 +11,8 @@ Web developer from St. Peterburg. I'm student of [**SUAI**](https://suai.edu.ru/
 - 📋 Download my **[Resume](assets/Resume.pdf)**
 - 📫 How to reach me by [Gmail](mailto:danzo0l.in@gmail.com) 
 
-#### 💡 Stack
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzo0l&hide_progress=true)
+#### 💡 Notes
+Pls, start repo [guap-raspisanie](https://github.com/Danzo0l/guap-raspisanie)
 
 #### 🌐 Contacts and socials: 
 **[Gmail](mailto:danzo0l.in@gmail.com)** / 
