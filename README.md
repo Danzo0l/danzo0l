@@ -12,7 +12,7 @@ Web developer from St. Peterburg. I'm student of [**SUAI**](https://suai.edu.ru/
 - 📫 How to reach me by [Gmail](mailto:danzo0l.in@gmail.com) 
 
 #### 💡 Notes
-Pls, start repo [guap-raspisanie](https://github.com/Danzo0l/guap-raspisanie)
+Pls, star repo [guap-raspisanie](https://github.com/Danzo0l/guap-raspisanie)
 
 #### 🌐 Contacts and socials: 
 **[Gmail](mailto:danzo0l.in@gmail.com)** / 
