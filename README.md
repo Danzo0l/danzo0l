@@ -2,11 +2,10 @@
 
 <!-- ![](assets/background.png) -->
 
-#### 📄 About me:
+#### 💻 About me:
 Web developer from St. Peterburg. I'm student of [**SUAI**](https://suai.edu.ru/). My projects are released on GitHub, on page [repositories](https://github.com/Danzo0l?tab=repositories).
 
-- 🌱 I’m currently learning **Typescript** and **Java**
-- 💻 Visit my [web-card](https://danzo0l.github.io/business-card-website/)
+- 🌱 Visit my [web-card](https://danzo0l.github.io/business-card-website/)
 - 📋 Download my **[Resume](assets/Resume.pdf)**
 
 #### 🌐 Contacts and socials: 
